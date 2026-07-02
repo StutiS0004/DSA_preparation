@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/StutiS0004/DSA_preparation/tree/master/0680-valid-palindrome-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/StutiS0004/DSA_preparation/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/StutiS0004/DSA_preparation/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/StutiS0004/DSA_preparation/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
