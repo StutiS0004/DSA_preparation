@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
