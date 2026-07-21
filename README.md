@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search
 |  |
 | ------- |
