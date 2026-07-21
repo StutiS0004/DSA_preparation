@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/StutiS0004/DSA_preparation/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/StutiS0004/DSA_preparation/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
