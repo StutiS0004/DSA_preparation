@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/StutiS0004/DSA_preparation/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/StutiS0004/DSA_preparation/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
