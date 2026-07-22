@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/StutiS0004/DSA_preparation/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/StutiS0004/DSA_preparation/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/StutiS0004/DSA_preparation/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/StutiS0004/DSA_preparation/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/StutiS0004/DSA_preparation/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
