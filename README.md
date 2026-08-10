@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/StutiS0004/DSA_preparation/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/StutiS0004/DSA_preparation/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/StutiS0004/DSA_preparation/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/StutiS0004/DSA_preparation/tree/master/0014-longest-common-prefix) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/StutiS0004/DSA_preparation/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/StutiS0004/DSA_preparation/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/StutiS0004/DSA_preparation/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/StutiS0004/DSA_preparation/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/StutiS0004/DSA_preparation/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
