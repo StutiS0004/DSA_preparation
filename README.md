@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/StutiS0004/DSA_preparation/tree/master/0680-valid-palindrome-ii) |
+| [1844-replace-all-digits-with-characters](https://github.com/StutiS0004/DSA_preparation/tree/master/1844-replace-all-digits-with-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
