@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/StutiS0004/DSA_preparation/tree/master/0012-integer-to-roman) |
+| [0133-clone-graph](https://github.com/StutiS0004/DSA_preparation/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/StutiS0004/DSA_preparation/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/StutiS0004/DSA_preparation/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/StutiS0004/DSA_preparation/tree/master/0101-symmetric-tree) |
+| [0133-clone-graph](https://github.com/StutiS0004/DSA_preparation/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/StutiS0004/DSA_preparation/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0133-clone-graph](https://github.com/StutiS0004/DSA_preparation/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/StutiS0004/DSA_preparation/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/StutiS0004/DSA_preparation/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
