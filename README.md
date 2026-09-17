@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/StutiS0004/DSA_preparation/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/StutiS0004/DSA_preparation/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/StutiS0004/DSA_preparation/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/StutiS0004/DSA_preparation/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/StutiS0004/DSA_preparation/tree/master/0746-min-cost-climbing-stairs) |
 | [1200-minimum-absolute-difference](https://github.com/StutiS0004/DSA_preparation/tree/master/1200-minimum-absolute-difference) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/StutiS0004/DSA_preparation/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/StutiS0004/DSA_preparation/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/StutiS0004/DSA_preparation/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/StutiS0004/DSA_preparation/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
