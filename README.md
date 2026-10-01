@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/StutiS0004/DSA_preparation/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/StutiS0004/DSA_preparation/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/1143-longest-common-subsequence) |
 | [1844-replace-all-digits-with-characters](https://github.com/StutiS0004/DSA_preparation/tree/master/1844-replace-all-digits-with-characters) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/StutiS0004/DSA_preparation/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/StutiS0004/DSA_preparation/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/StutiS0004/DSA_preparation/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/StutiS0004/DSA_preparation/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Array
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/StutiS0004/DSA_preparation/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/StutiS0004/DSA_preparation/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
